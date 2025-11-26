@@ -1,5 +1,5 @@
 ---
-title: Forest
+title: Do-Ho-Mania
 author: Fred Gibbs
 layout: base
 date: 2025-07-21
