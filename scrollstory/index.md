@@ -22,7 +22,7 @@ This essay shows almost all the design elements you can employ on your essay pag
 ## Second heading
 {% include figure.html 
 class="right" 
-width="75%" 
+width="48%" 
 caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris." 
 image-path="images/32000002.JPG" 
 %}
