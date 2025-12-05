@@ -3,9 +3,9 @@ title: Do-Ho-Mania
 author: Fred Gibbs
 layout: base
 date: 2025-07-21
-thumbnail: images/forest.png
+thumbnail: images/madness.jpg
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
-header-image: images/forest.png
+header-image: images/madness.jpg
 header-title:
 header-position: 0px
 toc-section: piano
@@ -15,7 +15,7 @@ tags:
   - music
 ---
 
-# Welcome to Do-Ho-Mania
+# Do-Ho-Mania
 This essay shows almost all the design elements you can employ on your essay pages. Most of the text is just dummy text to keep the focus on the page elements.
 
 
