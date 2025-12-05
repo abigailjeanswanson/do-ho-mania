@@ -1,6 +1,6 @@
 ---
 title: Do-Ho-Mania
-author: Fred Gibbs
+author: Abigail J. Swanson
 layout: base
 date: 2025-07-21
 thumbnail: images/madness.jpg
@@ -16,8 +16,7 @@ tags:
 ---
 
 # Do-Ho-Mania
-This essay shows almost all the design elements you can employ on your essay pages. Most of the text is just dummy text to keep the focus on the page elements.
-
+This assignment is kicking my ass, I don't want to build a website
 
 ## Second heading
 {% include figure.html 
