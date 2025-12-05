@@ -16,7 +16,7 @@ tags:
 ---
 
 # Do-Ho-Mania
-This assignment is kicking my ass, I don't want to build a website
+Be a good housekeeper, but not too good!
 
 ## Second heading
 {% include figure.html 
