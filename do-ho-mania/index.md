@@ -2,7 +2,7 @@
 title: Do-Ho-Mania
 author: Abigail J. Swanson
 layout: base
-date: 2025-07-21
+date: 2025-12-04
 thumbnail: images/madness.jpg
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
 header-image: images/madness.jpg
@@ -23,7 +23,7 @@ This assignment is kicking my ass, I don't want to build a website
 class="right" 
 width="48%" 
 caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris." 
-image-path="images/32000002.JPG" 
+image-path="images/Christine.jpg" 
 %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
