@@ -22,7 +22,7 @@ Be a good housekeeper, but not too good!
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="Unidentified woman mopping." 
+caption="Unidentified woman mopping ca. 1900." 
 image-path="images/Christine.jpg" 
 %}
 
