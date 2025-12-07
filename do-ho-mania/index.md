@@ -18,7 +18,7 @@ tags:
 # Do-Ho-Mania
 Be a good housekeeper, but not too good!
 
-## Second heading
+## Do-Ho-Mania and the Danger of Doing Too Much
 {% include figure.html 
 class="right" 
 width="48%" 
