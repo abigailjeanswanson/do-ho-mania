@@ -26,15 +26,15 @@ caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris."
 image-path="images/Christine.jpg" 
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+In the summer of 1903, the ever-faithful American readers of Good Housekeeping cracked the spine of their cherished magazine. Once they reached page 128, which featured the op-ed section called “Veranda Talks,” they encountered a witty, breezy article written by well-known poet and author, Ella Wheeler Willcox titled “Do-Ho-Mania.” Its playful, rhythmic headline seemed harmless—almost comical—but behind the light tone of the article was a profound cultural message.[^note1]
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
-Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
+“Do-Ho-Mania” read like a cute, nonsensical name, but what Ella Wheeler Willcox wrote in the article served as a warning to its upper- and middle- class white women readers: being too good at housekeeping could cause psychological harm. Her comic quippy tone was in fact, a reflection of early twentieth-century anxieties about female sanity, domestic labor, and the narrow definition of ideal womanhood.[^note2]
 
 [^note2]: This is my citation at the end of the SECOND paragraph.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+These anxieties bled far beyond the pages of Good Housekeeping. The medical field, newspapers, fiction, and domestic guidebooks all shared a cultural language: women are naturally nervous creatures who are prone to breakdown and constantly on the precipice of becoming societally undesirable. What’s worse is that their temperament could impact the happiness of their entire family unit. While all of this was a culturally accepted truth, women were also under extreme pressure to maintain spotless homes, attractive appearances, and mild tempers.
 
 {% include juxtapose.html
 image1="images/veranda-talks-1.jpeg"
