@@ -58,7 +58,7 @@ PAGE SETUP
   --shadow-hover: 0 4px 12px rgba(255, 193, 7, 0.4);
 
   /* Fonts */
-  --font-heading: 'Fredericka the Great', sans-serif;
+  --font-heading: 'Fredericka the Great';
   --font-body: 'Source Sans 3', sans-serif;
   --font-serif: 'Lora', serif;
   --font-mono: 'Fira Mono', 'Consolas', 'Menlo', monospace;
