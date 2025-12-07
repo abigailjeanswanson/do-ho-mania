@@ -39,7 +39,7 @@ These anxieties bled far beyond the pages of Good Housekeeping. The medical fiel
 {% include juxtapose.html
 image1="images/veranda-talks-1.jpeg"
 image2="images/veranda-talks-2.jpeg"
-caption="Ella Wheeler Willcox's article, "Do-Ho-Mania" as it appeared in Good Housekeeping."
+caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping."
 %}
 
 
