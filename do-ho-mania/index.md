@@ -182,7 +182,7 @@ Popular media eagerly used these ideas and ran with them. Stories, illustrations
 
 Altogether, these cultural influences envisaged a world in which women were expected to keep pristinely clean homes, maintain a serene composure, and never slip into excess. Women were expected to do all of this and smile through it. It was a balancing act that was nearly impossible to maintain, but early twentieth century society impressed upon women that it could define their very existence. [^note9]
 
-[^note9]: 
+[^note9]: Gamwell, Madness in America, 71; Showalter, The Female Malady, 4-7, 52-53, 124; Smith-Rosenberg, “The Female Animal,” 340; Zuckerman, Popular Women’s Magazines, 34; Tarr, “Managing Danger,” 798-800; Rury, “Vocationalism,” 22-26; Grob, Mental Illness in American Society, 36-37; Showalter, The Female Malady, 126; Lerner, “The Lady and the Mill Girl,” 11; Welter, “The Cult of True Womanhood,” 152. 
 
 
 {% assign images = 
