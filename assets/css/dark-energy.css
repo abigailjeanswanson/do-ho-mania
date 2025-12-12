@@ -3,6 +3,7 @@
 /* Overrides base variables and specific elements */
 
 @import url('https://fonts.googleapis.com/css2?family=Futura:wght@400;700&family=Inter:wght@300;400;600&family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
 
 /*****************************************************
 THEME VARIABLES - Override base.css :root
@@ -28,7 +29,7 @@ THEME VARIABLES - Override base.css :root
   
   /* Override font families */
   --font-heading: "Futura", sans-serif;
-  --font-body: "Inter", sans-serif;
+  --font-body: "Libre Baskerville";
   --font-mono: "Space Mono", monospace;
   
   /* Accent colors for specific elements */
