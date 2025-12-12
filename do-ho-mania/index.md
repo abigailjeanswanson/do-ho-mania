@@ -165,11 +165,10 @@ If a woman’s mental health was unstable, it was a public concern and a domesti
 
 
 ## Conclusion
-{% include figure.html 
-class="right" 
-width="48%" 
-caption="From a 1901 Good Housekeeping article entitled Housework as Exercise." 
-image-path="images/exercise-1.jpeg" 
+{% include juxtapose.html
+image1="images/exercise-1.jpeg"
+image2="images/exercise-2.jpeg"
+caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping, 1903."
 %}
 
 Women’s magazines guided women to fit into the cultural mold of “proper” femininity by offering a steady stream of beauty tips, household advice, and intimate op-ed  columns that made these expectations seem normal—even friendly. Flip through an issue of Good Housekeeping from the early twentieth century and you would find a mixture of instruction, entertainment, and encouragement that somewhat stealthily nudged women toward the version of womanhood society idealized. 
