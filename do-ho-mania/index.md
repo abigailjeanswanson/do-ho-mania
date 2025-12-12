@@ -139,26 +139,24 @@ With this context, we see that “Do-Ho-Mania” fit neatly within the pressure 
   line-height = "100%"
 %}
 
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
+### Gendered Madness in Medical Discourse
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
+Psychiatric texts like T.S. Clouston’s Clinical Lectures on Mental Diseases brought a sense of medical authority to madness. By proxy, they also brought a sense of medical authority to popular media caricatures that resembled insanity. These caricatures were prevalent in popular media and in the American cultural imagination. 
 
+In texts like Clouston’s, mania, melancholy, and nervousness were moralized and gendered. Women were considered particularly vulnerable to mental deviations especially if they strayed from their natural roles as domestic housekeepers, mothers, and wives. 
 
-### IMAGE SWITCH HERE 
+Historians explain that psychiatrists viewed mental health as a scale or continuum. Normal people—especially women—could slide into insanity rather easily. Manuals like Clouston’s asserted that women’s intellectual and emotional excess could undermine their reproductive and domestic fitness, and in the grand scheme of things, this could negatively impact the family and thus, the nation’s well-being. 
 
 {% include scrollybox/bg-switch.html
   image-path="images/woman-vacuum-1910s.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
+This medical discourse is reflected and reinforced in Willcox’s article. 
 
+A woman could harm her entire household by becoming overly zealous in her domestic duties. “Do-Ho-Mania” portrays the over-achieving housekeeper as a danger to society.
 
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
-
-
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
+If a woman’s mental health was unstable, it was a public concern and a domestic failure. 
 
 
 {% include scrollybox/bg-multi-long-close.html %}
