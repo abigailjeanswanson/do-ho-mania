@@ -50,15 +50,16 @@ caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Hous
 %}
 
 ## Willcox and Print Media
-{% include figure.html 
-class="right" 
-width="48%" 
-caption="Unidentified woman mopping ca. 1900." 
-image-path="images/Christine.jpg" 
-%}
+
 Willcox was already a very famous and familiar name in the early twentieth century. She was a poet, a writer, and a prolific contributor to women’s magazines, which were in almost every upper- and middle- class household when “Do-Ho-Mania” was published. Willcox was a white, educated upper-middle-class woman which was precisely the demographic that women’s magazines targeted and idealized. By the time Willcox wrote “Do-Ho-Mania,” she was married, but her husband had passed away. As a middle-aged widow, Willcox enjoyed the societal respect given to married women and avoided the stigma society often had against single women. [^note3]
 
 [^note3]: E.D. Walker, "Ella Wheeler Willcox," Cosmopolitan Magazine, November 1888. 46-52.
+
+By the early 1900s, women’s magazines were extremely popular, a booming industry. Domestic purchasing decisions fell to women and magazines like Good Housekeeping and Cosmopolitan became central sites of consumer culture. This was a characteristic of the new, industrialized America and women’s print media capitalized on it by including a copious amount of paid advertisements for household products, beauty products, and other women’s necessities. Magazine advertisements and articles reflected women’s concerns about motherhood, health, and homemaking. Women writers like Ella Wheeler Willcox were featured in women’s magazines. Thus, women were both agents and objects of magazine content. What they read not only shaped how they spent their household’s finances, but it also impacted how they interacted with many aspects of their everyday lives.
+This commercial landscape is central to understanding the cultural implications of “Do-Ho-Mania.” The fact that Good Housekeeping published an article about not being too good of a housekeeper is ironic, but the irony is revealing of the cultural and societal systems that revered domestic labor and feared the fragility of upper- and middle- class white women’s sanity. [^note4]
+
+[^note4]:Mary Ellen Zuckerman, A History of Popular Women’s Magazines in the United States, 1792-1995, (Greenwood
+Press, 1998), 3-4, 26, 34.
 
 
 ## Donec odio elit
