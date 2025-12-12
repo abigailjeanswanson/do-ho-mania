@@ -156,7 +156,9 @@ This medical discourse is reflected and reinforced in Willcox’s article.
 
 A woman could harm her entire household by becoming overly zealous in her domestic duties. “Do-Ho-Mania” portrays the over-achieving housekeeper as a danger to society.
 
-If a woman’s mental health was unstable, it was a public concern and a domestic failure. 
+If a woman’s mental health was unstable, it was a public concern and a domestic failure. [^note8]
+
+[^note8]: Thomas Clouston, Clinical Lectures on Mental Diseases (Lea Brothers and Company: 1904); Grob, Mental Illness in American Society, 36-37; Willcox, “Do-Ho-Mania,” 128; Showalter, The Female Malady, 122-126.
 
 
 {% include scrollybox/bg-multi-long-close.html %}
