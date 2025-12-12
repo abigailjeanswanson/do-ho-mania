@@ -3,6 +3,7 @@
 /* Import original fonts for scrollstory pages */
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
 /* Override base fonts with original pairing */
 .scrollstory-container {
@@ -23,7 +24,7 @@
 .scrollstory-container h4,
 .scrollstory-container h5 {
   /* Typography */
-  font-family: 'Source Sans 3', sans-serif;
+  font-family: 'EB Garamond';
   font-weight: normal;
   letter-spacing: normal;
 }
