@@ -41,6 +41,8 @@ Readers encounter her message in an informal op-ed section of Good Housekeeping 
 
 
 
+
+
 {% include juxtapose.html
 image1="images/veranda-talks-1.jpeg"
 image2="images/veranda-talks-2.jpeg"
