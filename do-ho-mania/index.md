@@ -124,6 +124,9 @@ Manuals like The Cost of Living classified domestic labor as a profession and a 
 
 
 
+
+
+
 Historians have shown how these manuals framed housekeeping as a professional pursuit. They emphasize that small efficiencies practiced on a grand scale in all upper- and middle- class white households can preserve the “race” and American society. Domestic cleanliness was next to citizenship. 
 
 For women who were still under the bonds of coverture, this message could have felt empowering to read, but in fact, it intensified gendered scrutiny. Women were told that they must manage their homes with absolute precision and scientific rigor while also maintaining a warm, loving, attractive, and emotionally stable sense of self. Their failures meant extreme personal and familial damage and their excess was pathologized.
