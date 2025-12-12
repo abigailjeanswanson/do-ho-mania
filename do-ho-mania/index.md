@@ -112,7 +112,7 @@ The impossibly narrow societal expectations reflect broader cultural beliefs: wo
 class="left" 
 width="48%" 
 caption="Unidentified woman ironing ca. 1910." 
-image-path="images/woman-ironing-1910.jpg" 
+image-path="images/woman-ironing-1910s.jpg" 
 %}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
@@ -123,7 +123,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-path="images/mvh-floorplan.jpg"
+  image-path="images/woman-laundry-1910s.jpg"
   above-box-space="0"
   font-size = "150%"
   line-height = "100%"
@@ -137,7 +137,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
-  image-path="images/mvh-tv-room.jpg"
+  image-path="images/woman-vacuum-1910s.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
