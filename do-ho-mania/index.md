@@ -18,7 +18,7 @@ tags:
 
 
 # Ella Wheeler Willcox and Do-Ho-Mania
-Be a good housekeeper, but not too good!
+
 
 ## Do-Ho-Mania and the Danger of Doing Too Much
 {% include figure.html 
