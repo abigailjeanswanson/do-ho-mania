@@ -117,9 +117,15 @@ caption="Unidentified woman ironing ca. 1910."
 image-path="images/woman-ironing-1910s.jpg" 
 %}
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+## Housekeeping and The Cost of Living
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+Manuals like The Cost of Living classified domestic labor as a profession and a science. It guaranteed to women that if they were careful and efficient, if they housekept correctly, they could uplift their entire families and even impact the entire nation. The contents of these domestic manual provide us with some cultural context for Emma Wheeler Willcox’s article.
+Historians have shown how these manuals framed housekeeping as a professional pursuit. They emphasize that small efficiencies practiced on a grand scale in all upper- and middle- class white households can preserve the “race” and American society. Domestic cleanliness was next to citizenship. 
+
+For women who were still under the bonds of coverture, this message could have felt empowering to read, but in fact, it intensified gendered scrutiny. Women were told that they must manage their homes with absolute precision and scientific rigor while also maintaining a warm, loving, attractive, and emotionally stable sense of self. Their failures meant extreme personal and familial damage and their excess was pathologized.
+
+With this context, we see that “Do-Ho-Mania” fit neatly within the pressure created by society’s standards of domesticity and femininity. Women were expected to embody efficiency without appearing to be too much, too obsessive, they were expected to be devoted, without becoming consumed, and respectable, but not rigid. 
+
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
