@@ -17,7 +17,7 @@ tags:
 
 
 
-# Do-Ho-Mania ## and the Danger of Doing Too Much
+# Do-Ho-Mania and the Danger of Doing Too Much
 
 
 
