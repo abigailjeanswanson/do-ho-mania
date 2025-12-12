@@ -78,7 +78,8 @@ This imbalance is reflected in popular culture. When Willcox used the term “ma
   position="top"
   image-path="images/living-room-1911.jpg"
   above-box-space = "100vh"
-  box-content='"The woman made a failure of her whole life and left, when she died, a memory of an unhappy home for her family. Yet she died in what should ahve been her prime, believing she had sacrificed her life upon the altar of domestic duty, and had not been appreciated." - Ella Wheeler Willcox'
+  box-content='"The woman made a failure of her whole life and left, when she died, a memory of an unhappy home for her family. Yet she died in what should ahve been her prime, believing she had sacrificed her life upon the altar of domestic duty, and had not been appreciated." 
+  - Ella Wheeler Willcox'
 %}
 
 
