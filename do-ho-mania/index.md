@@ -187,8 +187,7 @@ Altogether, these cultural influences envisaged a world in which women were expe
 
 {% assign images = 
 "images/ella-1.jpeg,
-images/mania-1892.jpg,
-images/defends-1927.jpg" | split: ','
+images/mania-1892.jpg" | split: ','
 %}
 
 {% include carousel.html
