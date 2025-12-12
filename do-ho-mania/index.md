@@ -26,11 +26,11 @@ caption="Unidentified woman mopping ca. 1900."
 image-path="images/Christine.jpg" 
 %}
 
-In the summer of 1903, the ever-faithful American readers of Good Housekeeping cracked the spine of their cherished magazine. Once they reached page 128, which featured the op-ed section called “Veranda Talks,” they encountered a witty, breezy article written by well-known poet and author, Ella Wheeler Willcox titled “Do-Ho-Mania.” Its playful, rhythmic headline seemed harmless—almost comical—but behind the light tone of the article was a profound cultural message.[^note1]
+In the summer of 1903, the ever-faithful American readers of Good Housekeeping cracked the spine of their cherished magazine. Once they reached page 128, which featured the op-ed section called “Veranda Talks,” they encountered a witty, breezy article written by well-known poet and author, Ella Wheeler Willcox titled “Do-Ho-Mania.” Its playful, rhythmic headline seemed harmless—almost comical—but behind the light tone of the article was a profound cultural message.“Do-Ho-Mania” read like a cute, nonsensical name, but what Ella Wheeler Willcox wrote in the article served as a warning to its upper- and middle- class white women readers: being too good at housekeeping could cause psychological harm. Her comic quippy tone was in fact, a reflection of early twentieth-century anxieties about female sanity, domestic labor, and the narrow definition of ideal womanhood.[^note1]
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
+[^note1]: Ella Wheeler Willcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903.
 
-“Do-Ho-Mania” read like a cute, nonsensical name, but what Ella Wheeler Willcox wrote in the article served as a warning to its upper- and middle- class white women readers: being too good at housekeeping could cause psychological harm. Her comic quippy tone was in fact, a reflection of early twentieth-century anxieties about female sanity, domestic labor, and the narrow definition of ideal womanhood.[^note2]
+[^note2]
 
 [^note2]: This is my citation at the end of the SECOND paragraph.
 
