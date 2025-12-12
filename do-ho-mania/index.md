@@ -164,7 +164,7 @@ If a woman’s mental health was unstable, it was a public concern and a domesti
 {% include scrollybox/bg-multi-long-close.html %}
 
 
-## Duis vehicula erat et diam
+## Conclusion
 {% include figure.html 
 class="right" 
 width="48%" 
@@ -172,13 +172,17 @@ caption="Unidentified woman mopping ca. 1900."
 image-path="images/exercise-1.jpeg" 
 %}
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
+Women’s magazines guided women to fit into the cultural mold of “proper” femininity by offering a steady stream of beauty tips, household advice, and intimate op-ed  columns that made these expectations seem normal—even friendly. Flip through an issue of Good Housekeeping from the early twentieth century and you would find a mixture of instruction, entertainment, and encouragement that somewhat stealthily nudged women toward the version of womanhood society idealized. 
 
+Simultaneously, domestic manuals contributed their own kind of pressure onto early twentieth century women. These manuals promised that a home run efficiently could elevate an entire family, but they also warned that a woman could go wrong in countless ways. Perfection was the goal, but the goal post moved constantly. 
 
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
+Layered on top of all of this, psychiatric texts insisted women were delicate creatures, always teetering on the brink of emotional collapse. Medical authorities linked women’s mental stability to their moral value and suggested that staying calm and upkeeping their “natural” duties was essential to being seen as desirable and respectable. 
 
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+Popular media eagerly used these ideas and ran with them. Stories, illustrations, and quirky advice columns portrayed female madness as dramatic plot points or cautionary tales, sprinkling in psychiatric terminology throughout everyday entertainment and print media. 
+
+Altogether, these cultural influences envisaged a world in which women were expected to keep pristinely clean homes, maintain a serene composure, and never slip into excess. Women were expected to do all of this and smile through it. It was a balancing act that was nearly impossible to maintain, but early twentieth century society impressed upon women that it could define their very existence. [^note9]
+
+[^note9]: 
 
 
 {% assign images = 
