@@ -47,7 +47,7 @@ Readers encounter her message in an informal op-ed section of Good Housekeeping 
 {% include juxtapose.html
 image1="images/veranda-talks-1.jpeg"
 image2="images/veranda-talks-2.jpeg"
-caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping."
+caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping, 1903."
 %}
 
 ## Willcox and Print Media
@@ -96,11 +96,17 @@ Willcox softens the severity of her message why shortening the phrase “domesti
 
 {% include aside.html class="left" text="
 She used light-hearted humor to reinforce and re-entrench cultural norms:
+
 Women should keep their home clean, but not too clean.
+
 Women must care deeply but not obsess.
+
 Women must routinely and efficiently fulfil their duties, but not to the point of becoming a machine. 
+
 If a woman fails at housekeeping, she risks being labeled negligent. 
+
 If she excels too fiercely, she risks losing her mind. 
+
 The impossibly narrow societal expectations reflect broader cultural beliefs: women were constantly on the verge of becoming undesirable. 
 " %}
 
