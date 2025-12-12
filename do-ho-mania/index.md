@@ -127,9 +127,7 @@ For women who were still under the bonds of coverture, this message could have f
 
 With this context, we see that “Do-Ho-Mania” fit neatly within the pressure created by society’s standards of domesticity and femininity. Women were expected to embody efficiency without appearing to be too much, too obsessive, they were expected to be devoted, without becoming consumed, and respectable, but not rigid. [^note7]
 
-[^note7]: Ellen H. Richards, "The Organization of the Household" in The Cost of Living (Chapman and Hall, Limited: 1900); Carroll Smith-Rosenburg and Charles Rosenberg, “The Female Animal: Medical and Biological Views of Woman
-and her Role in Nineteenth-Century America,” The Journal of American History, no. 2 (1973): 333; Smith-Rosenberg, “The Hysterical Woman,” 657; Joel A. Tarr and Mark Tebeau, “Managing Danger in the Home Environment, 1900-1940,” Journal of Social
-History, no. 4 (1996): 798-802;
+[^note7]: Ellen H. Richards, "The Organization of the Household" in The Cost of Living (Chapman and Hall, Limited: 1900); Carroll Smith-Rosenburg and Charles Rosenberg, “The Female Animal: Medical and Biological Views of Woman and her Role in Nineteenth-Century America,” The Journal of American History, no. 2 (1973): 333; Smith-Rosenberg, “The Hysterical Woman,” 657; Gamwell, Madness in America, 127; Smith-Rosenberg, “The Female Animal,” 340; Joel A. Tarr and Mark Tebeau, “Managing Danger in the Home Environment, 1900-1940,” Journal of Social History, no. 4 (1996): 798-802; John L. Rury, “Vocationalism for Home and Work: Women’s Education in the United States, 1880-1930,” History of Education Quarterly, no. 1 (1984): 25-26. 
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
