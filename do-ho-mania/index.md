@@ -49,10 +49,16 @@ image2="images/veranda-talks-2.jpeg"
 caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping."
 %}
 
+## Willcox and Print Media
+{% include figure.html 
+class="right" 
+width="48%" 
+caption="Unidentified woman mopping ca. 1900." 
+image-path="images/Christine.jpg" 
+%}
+Willcox was already a very famous and familiar name in the early twentieth century. She was a poet, a writer, and a prolific contributor to women’s magazines, which were in almost every upper- and middle- class household when “Do-Ho-Mania” was published. Willcox was a white, educated upper-middle-class woman which was precisely the demographic that women’s magazines targeted and idealized. By the time Willcox wrote “Do-Ho-Mania,” she was married, but her husband had passed away. As a middle-aged widow, Willcox enjoyed the societal respect given to married women and avoided the stigma society often had against single women. [^note3]
 
-
-
-
+[^note3]: E.D. Walker, "Ella Wheeler Willcox," Cosmopolitan Magazine, November 1888. 46-52.
 
 
 ## Donec odio elit
