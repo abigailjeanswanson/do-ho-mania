@@ -68,7 +68,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 {% include scrollybox/bg.html
   height="220vh"
   position="top"
-  image-path="images/mvh-women-supervision.jpg"
+  image-path="images/living-room-1911.jpg"
   above-box-space = "100vh"
   box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
