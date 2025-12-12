@@ -168,7 +168,7 @@ If a woman’s mental health was unstable, it was a public concern and a domesti
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="From a 1901 Good Housekeeping article entitled "Housework as Exercise."" 
+caption="From a 1901 Good Housekeeping article entitled "Housework as Exercise." 
 image-path="images/exercise-1.jpeg" 
 %}
 
