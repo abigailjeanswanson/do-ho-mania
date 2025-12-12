@@ -15,7 +15,7 @@ layout: base
 https://libproxy.unm.edu/login?url=https://www.proquest.com/wma/magazines/do-ho-mania/docview/1715556764/sem-2?accountid=14613.
 
 
-- Richards, Ellen H. “The Organization of the Household." The Cost of Living. London, UK: Chapman and Hall, Limited,1900.
+- Richards, Ellen H. “The Organization of the Household." The Cost of Living. London, UK: Chapman and Hall, Limited, 1900.
 
 ### Secondary 
 
