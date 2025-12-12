@@ -92,9 +92,6 @@ Willcox frames her light-hearted advice as a plea to women. It is a warning to w
 
 Willcox softens the severity of her message why shortening the phrase “domestic housekeeping mania” (which almost sounds like it could be an actual diagnostic term for the time) to the breezy “do-ho-mania.” She shares a vivid anecdote about a women who cleaned so diligently and obsessively that she became like “one of the witches in Macbeth,” who intimidated her husband into being a timid, depressive man. She understood her readers’ devotion to preserving their “true womanhood” and knew that evoking the image of a witch would frighten them and pressure them to heed her advice. [^note6]
 
-[^note6]:Ella Wheeler Willcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
-
-{% include aside.html class="left" text="
 She used light-hearted humor to reinforce and re-entrench cultural norms:
 
 Women should keep their home clean, but not too clean.
@@ -108,7 +105,15 @@ If a woman fails at housekeeping, she risks being labeled negligent.
 If she excels too fiercely, she risks losing her mind. 
 
 The impossibly narrow societal expectations reflect broader cultural beliefs: women were constantly on the verge of becoming undesirable. 
-" %}
+
+[^note6]:Ella Wheeler Willcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
+
+{% include figure.html 
+class="left" 
+width="48%" 
+caption="Unidentified woman ironing ca. 1910." 
+image-path="images/woman-ironing-1910.jpg" 
+%}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
