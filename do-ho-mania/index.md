@@ -17,10 +17,10 @@ tags:
 
 
 
-# Ella Wheeler Willcox and Do-Ho-Mania
+# Do-Ho-Mania and the Danger of Doing Too Much
 
 
-## Do-Ho-Mania and the Danger of Doing Too Much
+## 
 {% include figure.html 
 class="right" 
 width="48%" 
