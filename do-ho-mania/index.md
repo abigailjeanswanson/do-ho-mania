@@ -125,8 +125,11 @@ Historians have shown how these manuals framed housekeeping as a professional pu
 
 For women who were still under the bonds of coverture, this message could have felt empowering to read, but in fact, it intensified gendered scrutiny. Women were told that they must manage their homes with absolute precision and scientific rigor while also maintaining a warm, loving, attractive, and emotionally stable sense of self. Their failures meant extreme personal and familial damage and their excess was pathologized.
 
-With this context, we see that “Do-Ho-Mania” fit neatly within the pressure created by society’s standards of domesticity and femininity. Women were expected to embody efficiency without appearing to be too much, too obsessive, they were expected to be devoted, without becoming consumed, and respectable, but not rigid. 
+With this context, we see that “Do-Ho-Mania” fit neatly within the pressure created by society’s standards of domesticity and femininity. Women were expected to embody efficiency without appearing to be too much, too obsessive, they were expected to be devoted, without becoming consumed, and respectable, but not rigid. [^note7]
 
+[^note7]: Ellen H. Richards, "The Organization of the Household" in The Cost of Living (Chapman and Hall, Limited: 1900); Carroll Smith-Rosenburg and Charles Rosenberg, “The Female Animal: Medical and Biological Views of Woman
+and her Role in Nineteenth-Century America,” The Journal of American History, no. 2 (1973): 333; Smith-Rosenberg, “The Hysterical Woman,” 657; Joel A. Tarr and Mark Tebeau, “Managing Danger in the Home Environment, 1900-1940,” Journal of Social
+History, no. 4 (1996): 798-802;
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
