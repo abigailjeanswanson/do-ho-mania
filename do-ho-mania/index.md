@@ -186,7 +186,7 @@ Altogether, these cultural influences envisaged a world in which women were expe
 
 
 {% assign images = 
-"images/mvh-menu.jpg,
+"images/ella-1.jpeg,
 images/mvh-history-stays.jpg,
 images/mvh-room-cost.jpg" | split: ','
 %}
