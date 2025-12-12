@@ -17,20 +17,20 @@ PAGE SETUP
   --sage: #bbb89c;
   --ltgray: #eaeaea;
   --sand-light: #eae4d7;
-  --brown: #925737;
+  --brown: #f8f3f1;
   --bone: #F5EFE6;
   --dark: #1b0b02;
 
   /* Background colors */
   --bg-primary: var(--bone);
-  --bg-secondary: var(--sand);
+  --bg-secondary: var(--ltgray);
   --bg-secondary-light: var(--sand-light);
   --bg-tertiary: var(--dark);
   --bg-accent: var(--clay);
 
   /* Text colors */
-  --text-primary: #3a1602;
-  --text-secondary: #413b31;
+  --text-primary: #000000;
+  --text-secondary: #4b4b4b;
   --text-tertiary: var(--sand);
   --text-accent: var(--clay);
   --text-link: var(--clay);

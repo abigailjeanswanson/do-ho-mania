@@ -34,6 +34,12 @@ In the summer of 1903, the ever-faithful American readers of Good Housekeeping c
 
 These anxieties bled far beyond the pages of Good Housekeeping. Industrialization and urbanization lead to women increasingly participating in the public sphere. Women were becoming more educated, they were seeking paid employment, and fertility was declining. These inflamed social anxieties and caused a societal reaction that sought to reinforce existing gender roles and gender norms.
 
+{% include juxtapose.html
+image1="images/veranda-talks-1.jpeg"
+image2="images/veranda-talks-2.jpeg"
+caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping, 1903."
+%}
+
 The medical field, newspapers, fiction, and domestic guidebooks all shared a cultural language: women are naturally nervous creatures who are prone to breakdown and constantly on the precipice of becoming societally undesirable. What’s worse is that their temperament could impact the happiness of their entire family unit. Women who were “overcivilized” could become manic and nervous—hysterical, even—and this could directly impact their ability to give birth. This concern was mostly projected onto upper- and middle- class white women who were born in the U.S. because racialized societal beliefs at the time determined that non-white women, immigrant women, and poor women were incapable of becoming too civilized. While all of this was a broadly accepted as truth, women were also under extreme pressure to maintain spotless homes, attractive appearances, and mild tempers.
 Thus, upper- and middle- class American women in 1903 existed inside of a tightening vice of impossible expectations. Willcox’s article, “Do-Ho-Mania” exemplifies how these pressures intersected and how they were presented to the public. 
 
@@ -50,12 +56,6 @@ Readers encounter her message in an informal op-ed section of Good Housekeeping 
 
 
 
-
-{% include juxtapose.html
-image1="images/veranda-talks-1.jpeg"
-image2="images/veranda-talks-2.jpeg"
-caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping, 1903."
-%}
 
 ## Willcox and Print Media
 
