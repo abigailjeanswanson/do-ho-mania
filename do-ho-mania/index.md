@@ -50,13 +50,9 @@ caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Hous
 %}
 
 
-Upper- and middle- class American women in 1903 existed inside of a tightening vice of impossible expectations. Willcox’s article, “Do-Ho-Mania” exemplifies how these pressures intersected and how they were presented to the public.  
 
-To appreciate the depth of Willcox’s argument, it is critical to understand that the early twentieth century was a moment in which domesticity was framed not only as a private concern, but as a national preoccupation that directly impacted its citizens. American culture was in the process of negotiating what womanhood should be. The concept of womanhood was poised between nineteenth century Victorian ideals and emerging “New Woman” Progressive Era reforms. Women were becoming more engaged in public life—they were entering colleges, joining clubs and reform movements, and pushing the boundaries of what femininity could include. Simultaneously, popular culture, including magazines like Good Housekeeping worked to reassert the idea that a woman’s primary sphere should be the home. The home was still considered a woman’s domain.  
 
-So, Willcox’s comical framing served a dual purpose: it let her broach a sensitive topic—women’s mental state—while simultaneously re-inscribing the societal standard that women must be very vigilant about maintaining balance, self-control, and modesty. Willcox’s article demonstrate that humor could soften the blow of cultural critique while still reenforcing the pressures it ostensibly warned against.  
 
-Readers encounter her message in an informal op-ed section of Good Housekeeping with the soothing name “Veranda Talks,” which also has some cultural significance. The veranda is a space which is not entirely within the home, but also not a public space. It mirrors the betwixt and between, liminal space women occupied in 1903. As mothers and wives, women were permitted to have a small part in public discourse but even then, this permission was centered around and anchored in their domestic duties. Willcox’s so-called “talk” in this section of Good Housekeeping thus simulated a chummy chat, but its thinly-veiled message bore the weight of cultural mandate.  
 
 
 ## Donec odio elit
