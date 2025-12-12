@@ -28,26 +28,26 @@ caption="Unidentified woman mopping ca. 1900."
 image-path="images/Christine.jpg" 
 %}
 
-In the summer of 1903, the ever-faithful American readers of Good Housekeeping cracked the spine of their cherished magazine. Once they reached page 128, which featured the op-ed section called “Veranda Talks,” they encountered a witty, breezy article written by well-known poet and author, Ella Wheeler Willcox titled “Do-Ho-Mania.” Its playful, rhythmic headline seemed harmless—almost comical—but behind the light tone of the article was a profound cultural message.“Do-Ho-Mania” read like a cute, nonsensical name, but what Ella Wheeler Willcox wrote in the article served as a warning to its upper- and middle- class white women readers: being too good at housekeeping could cause psychological harm. Her comic quippy tone was in fact, a reflection of early twentieth-century anxieties about female sanity, domestic labor, and the narrow definition of ideal womanhood.[^note1]
+In the summer of 1903, the ever-faithful American readers of Good Housekeeping cracked the spine of their cherished magazine. Once they reached page 128, which featured the op-ed section called “Veranda Talks,” they encountered a witty, breezy article written by well-known poet and author, Ella Wheeler Wilcox titled “Do-Ho-Mania.” Its playful, rhythmic headline seemed harmless—almost comical—but behind the light tone of the article was a profound cultural message.“Do-Ho-Mania” read like a cute, nonsensical name, but what Ella Wheeler Wilcox wrote in the article served as a warning to its upper- and middle- class white women readers: being too good at housekeeping could cause psychological harm. Her comic quippy tone was in fact, a reflection of early twentieth-century anxieties about female sanity, domestic labor, and the narrow definition of ideal womanhood.[^note1]
 
-[^note1]: Ella Wheeler Willcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
+[^note1]: Ella Wheeler Wilcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
 
 These anxieties bled far beyond the pages of Good Housekeeping. Industrialization and urbanization lead to women increasingly participating in the public sphere. Women were becoming more educated, they were seeking paid employment, and fertility was declining. These inflamed social anxieties and caused a societal reaction that sought to reinforce existing gender roles and gender norms.
 
 {% include juxtapose.html
 image1="images/veranda-talks-1.jpeg"
 image2="images/veranda-talks-2.jpeg"
-caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping, 1903."
+caption="Ella Wheeler Wilcox's article, Do-Ho-Mania as it appeared in Good Housekeeping, 1903."
 %}
 
 The medical field, newspapers, fiction, and domestic guidebooks all shared a cultural language: women are naturally nervous creatures who are prone to breakdown and constantly on the precipice of becoming societally undesirable. What’s worse is that their temperament could impact the happiness of their entire family unit. Women who were “overcivilized” could become manic and nervous—hysterical, even—and this could directly impact their ability to give birth. This concern was mostly projected onto upper- and middle- class white women who were born in the U.S. because racialized societal beliefs at the time determined that non-white women, immigrant women, and poor women were incapable of becoming too civilized. While all of this was a broadly accepted as truth, women were also under extreme pressure to maintain spotless homes, attractive appearances, and mild tempers.
-Thus, upper- and middle- class American women in 1903 existed inside of a tightening vice of impossible expectations. Willcox’s article, “Do-Ho-Mania” exemplifies how these pressures intersected and how they were presented to the public. 
+Thus, upper- and middle- class American women in 1903 existed inside of a tightening vice of impossible expectations. Wilcox’s article, “Do-Ho-Mania” exemplifies how these pressures intersected and how they were presented to the public. 
 
-To appreciate the depth of Willcox’s argument, it is critical to understand that the early twentieth century was a moment in which domesticity was framed not only as a private concern, but as a national preoccupation that directly impacted its citizens. American culture was in the process of negotiating what womanhood should be. The concept of womanhood was poised between nineteenth century Victorian ideals and emerging “New Woman” Progressive Era reforms. Women were becoming more engaged in public life—they were entering colleges, joining clubs and reform movements, and pushing the boundaries of what femininity could include. Simultaneously, popular culture, including magazines like Good Housekeeping worked to reassert the idea that a woman’s primary sphere should be the home. The home was still considered a woman’s domain. 
+To appreciate the depth of Wilcox’s argument, it is critical to understand that the early twentieth century was a moment in which domesticity was framed not only as a private concern, but as a national preoccupation that directly impacted its citizens. American culture was in the process of negotiating what womanhood should be. The concept of womanhood was poised between nineteenth century Victorian ideals and emerging “New Woman” Progressive Era reforms. Women were becoming more engaged in public life—they were entering colleges, joining clubs and reform movements, and pushing the boundaries of what femininity could include. Simultaneously, popular culture, including magazines like Good Housekeeping worked to reassert the idea that a woman’s primary sphere should be the home. The home was still considered a woman’s domain. 
 
-So, Willcox’s comical framing served a dual purpose: it let her broach a sensitive topic—women’s mental state—while simultaneously re-inscribing the societal standard that women must be very vigilant about maintaining balance, self-control, and modesty. Willcox’s article demonstrate that humor could soften the blow of cultural critique while still reenforcing the pressures it ostensibly warned against. 
+So, Wilcox’s comical framing served a dual purpose: it let her broach a sensitive topic—women’s mental state—while simultaneously re-inscribing the societal standard that women must be very vigilant about maintaining balance, self-control, and modesty. Wilcox’s article demonstrate that humor could soften the blow of cultural critique while still reenforcing the pressures it ostensibly warned against. 
 
-Readers encounter her message in an informal op-ed section of Good Housekeeping with the soothing name “Veranda Talks,” which also has some cultural significance. The veranda is a space which is not entirely within the home, but also not a public space. It mirrors the betwixt and between, liminal space women occupied in 1903. As mothers and wives, women were permitted to have a small part in public discourse but even then, this permission was centered around and anchored in their domestic duties. Willcox’s so-called “talk” in this section of Good Housekeeping thus simulated a chummy chat, but its thinly-veiled message bore the weight of cultural mandate. 
+Readers encounter her message in an informal op-ed section of Good Housekeeping with the soothing name “Veranda Talks,” which also has some cultural significance. The veranda is a space which is not entirely within the home, but also not a public space. It mirrors the betwixt and between, liminal space women occupied in 1903. As mothers and wives, women were permitted to have a small part in public discourse but even then, this permission was centered around and anchored in their domestic duties. Wilcox’s so-called “talk” in this section of Good Housekeeping thus simulated a chummy chat, but its thinly-veiled message bore the weight of cultural mandate. 
 
 [^note2]
 
@@ -57,13 +57,13 @@ Readers encounter her message in an informal op-ed section of Good Housekeeping 
 
 
 
-## Willcox and Print Media
+## Wilcox and Print Media
 
-Willcox was already a very famous and familiar name in the early twentieth century. She was a poet, a writer, and a prolific contributor to women’s magazines, which were in almost every upper- and middle- class household when “Do-Ho-Mania” was published. Willcox was a white, educated upper-middle-class woman which was precisely the demographic that women’s magazines targeted and idealized. By the time Willcox wrote “Do-Ho-Mania,” she was married, but her husband had passed away. As a middle-aged widow, Willcox enjoyed the societal respect given to married women and avoided the stigma society often had against single women. [^note3]
+Wilcox was already a very famous and familiar name in the early twentieth century. She was a poet, a writer, and a prolific contributor to women’s magazines, which were in almost every upper- and middle- class household when “Do-Ho-Mania” was published. Wilcox was a white, educated upper-middle-class woman which was precisely the demographic that women’s magazines targeted and idealized. By the time Wilcox wrote “Do-Ho-Mania,” she was married, but her husband had passed away. As a middle-aged widow, Wilcox enjoyed the societal respect given to married women and avoided the stigma society often had against single women. [^note3]
 
-[^note3]: E.D. Walker, "Ella Wheeler Willcox," Cosmopolitan Magazine, November 1888. 46-52.
+[^note3]: E.D. Walker, "Ella Wheeler Wilcox," Cosmopolitan Magazine, November 1888. 46-52.
 
-By the early 1900s, women’s magazines were extremely popular, a booming industry. Domestic purchasing decisions fell to women and magazines like Good Housekeeping and Cosmopolitan became central sites of consumer culture. This was a characteristic of the new, industrialized America and women’s print media capitalized on it by including a copious amount of paid advertisements for household products, beauty products, and other women’s necessities. Magazine advertisements and articles reflected women’s concerns about motherhood, health, and homemaking. Women writers like Ella Wheeler Willcox were featured in women’s magazines. Thus, women were both agents and objects of magazine content. What they read not only shaped how they spent their household’s finances, but it also impacted how they interacted with many aspects of their everyday lives.
+By the early 1900s, women’s magazines were extremely popular, a booming industry. Domestic purchasing decisions fell to women and magazines like Good Housekeeping and Cosmopolitan became central sites of consumer culture. This was a characteristic of the new, industrialized America and women’s print media capitalized on it by including a copious amount of paid advertisements for household products, beauty products, and other women’s necessities. Magazine advertisements and articles reflected women’s concerns about motherhood, health, and homemaking. Women writers like Ella Wheeler Wilcox were featured in women’s magazines. Thus, women were both agents and objects of magazine content. What they read not only shaped how they spent their household’s finances, but it also impacted how they interacted with many aspects of their everyday lives.
 This commercial landscape is central to understanding the cultural implications of “Do-Ho-Mania.” The fact that Good Housekeeping published an article about not being too good of a housekeeper is ironic, but the irony is revealing of the cultural and societal systems that revered domestic labor and feared the fragility of upper- and middle- class white women’s sanity. [^note4]
 
 [^note4]:Mary Ellen Zuckerman, A History of Popular Women’s Magazines in the United States, 1792-1995, (Greenwood Press, 1998), 3-4, 26, 34. 
@@ -72,11 +72,11 @@ This commercial landscape is central to understanding the cultural implications 
 
 ## Pathologizing Femininity
 
-Willcox writing about a made-up mental illness made sense for this time period. As is evidenced by the use of the word ‘mania’ in Ella Wheeler Willcox’s article title, the early twentieth century was saturated with fascination and fear of mental illness. Popular media used madness as a metaphor in entertainment and often, madness was used as a literary device to implore its readers to be cautious of their own minds. In newspapers and magazines, nervous breakdowns, melancholia, and mania essentially became familiar characters—archetypes that reflected cultural understandings of the human mind and insanity. These stories often featured themes of domestic life, of crime, and of general moral decline. 
+Wilcox writing about a made-up mental illness made sense for this time period. As is evidenced by the use of the word ‘mania’ in Ella Wheeler Wilcox’s article title, the early twentieth century was saturated with fascination and fear of mental illness. Popular media used madness as a metaphor in entertainment and often, madness was used as a literary device to implore its readers to be cautious of their own minds. In newspapers and magazines, nervous breakdowns, melancholia, and mania essentially became familiar characters—archetypes that reflected cultural understandings of the human mind and insanity. These stories often featured themes of domestic life, of crime, and of general moral decline. 
 
 Historians have long observed that the western world genders madness as an inherently feminine trait. During the eighteenth century, there was a notable shift in how insanity was represented—what was once characterized as a violent, masculine threat to the state became a feminized condition that required a benevolent patriarchal hand to treat it. As the psychiatric profession filled with men, insane asylums filled with women as patients causing a disparity between the genders. In the U.S.—which was deeply and directly influenced by European medical thought—this gendered imbalance continued into the twentieth century. 
 
-This imbalance is reflected in popular culture. When Willcox used the term “mania” in her Good Housekeeping article, she was tapping into a sort of cultural shorthand that her readers would have been very familiar with and understood instantly. Popular media depicted female insanity as grotesque and frighteningly tragic—at times, even humorous. These tropes were grounded in a cultural and societal system that pathologized women’s behaviors and viewed their mental health as fragile, morally influenced, and unstable. Thus, deeming a woman who was obsessed with achieving domestic perfection as a manic was not simply a playful thing, it was a reflection of early twentieth century social anxieties. [^note5]
+This imbalance is reflected in popular culture. When Wilcox used the term “mania” in her Good Housekeeping article, she was tapping into a sort of cultural shorthand that her readers would have been very familiar with and understood instantly. Popular media depicted female insanity as grotesque and frighteningly tragic—at times, even humorous. These tropes were grounded in a cultural and societal system that pathologized women’s behaviors and viewed their mental health as fragile, morally influenced, and unstable. Thus, deeming a woman who was obsessed with achieving domestic perfection as a manic was not simply a playful thing, it was a reflection of early twentieth century social anxieties. [^note5]
 
 [^note5]:Lerner, “The Lady and The Mill Girl,” 11; Welter, “The Cult of True Womanhood,” 152, 174; Lerner, “The Lady and The Mill Girl,” 14; Molly Ladd-Taylor, Mother-work: Women, Child Welfare, and the State, 1890-1930, (University of Illinois Press, 1994), 113; Showalter, The Female Malady, 123-124,144.
 
@@ -88,16 +88,16 @@ This imbalance is reflected in popular culture. When Willcox used the term “ma
   above-box-space = "100vh"
   box-content='"The woman made a failure of her whole life and left, when she died, a memory of an unhappy home for her family. Yet she died in what should ahve been her prime, believing she had sacrificed her life upon the altar of domestic duty, and had not been appreciated." 
    
-   -Ella Wheeler Willcox'
+   -Ella Wheeler Wilcox'
 %}
 
 
 ## Do-Ho-Mania and the Fragile Ideal of Womanhood
-Ella Wheeler Willcox’s term “Do-Ho-Mania” is short, witty, and deceptively light-hearted, but the underlying message is serious.
+Ella Wheeler Wilcox’s term “Do-Ho-Mania” is short, witty, and deceptively light-hearted, but the underlying message is serious.
 
-Willcox frames her light-hearted advice as a plea to women. It is a warning to women, too: women must preserve their sanity for the sake of their families. She is quick to say that being a good housekeeper is admirable, but overdoing means risking degenerating into something almost monstrous, something industrial instead of something feminine: warm, loving, pious and soft. They could become “mere machines” and “terrors”—“enemies” in their own domestic sphere. 
+Wilcox frames her light-hearted advice as a plea to women. It is a warning to women, too: women must preserve their sanity for the sake of their families. She is quick to say that being a good housekeeper is admirable, but overdoing means risking degenerating into something almost monstrous, something industrial instead of something feminine: warm, loving, pious and soft. They could become “mere machines” and “terrors”—“enemies” in their own domestic sphere. 
 
-Willcox softens the severity of her message why shortening the phrase “domestic housekeeping mania” (which almost sounds like it could be an actual diagnostic term for the time) to the breezy “do-ho-mania.” She shares a vivid anecdote about a women who cleaned so diligently and obsessively that she became like “one of the witches in Macbeth,” who intimidated her husband into being a timid, depressive man. She understood her readers’ devotion to preserving their “true womanhood” and knew that evoking the image of a witch would frighten them and pressure them to heed her advice. [^note6]
+Wilcox softens the severity of her message why shortening the phrase “domestic housekeeping mania” (which almost sounds like it could be an actual diagnostic term for the time) to the breezy “do-ho-mania.” She shares a vivid anecdote about a women who cleaned so diligently and obsessively that she became like “one of the witches in Macbeth,” who intimidated her husband into being a timid, depressive man. She understood her readers’ devotion to preserving their “true womanhood” and knew that evoking the image of a witch would frighten them and pressure them to heed her advice. [^note6]
 
 She used light-hearted humor to reinforce and re-entrench cultural norms:
 
@@ -113,7 +113,7 @@ If she excels too fiercely, she risks losing her mind.
 
 The impossibly narrow societal expectations reflect broader cultural beliefs: women were constantly on the verge of becoming undesirable. 
 
-[^note6]:Ella Wheeler Willcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
+[^note6]:Ella Wheeler Wilcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
 
 {% include figure.html 
 class="left" 
@@ -124,7 +124,7 @@ image-path="images/woman-ironing-1910s.jpg"
 
 ## Housekeeping and The Cost of Living
 
-Manuals like The Cost of Living classified domestic labor as a profession and a science. It guaranteed to women that if they were careful and efficient, if they housekept correctly, they could uplift their entire families and even impact the entire nation. The contents of these domestic manual provide us with some cultural context for Emma Wheeler Willcox’s article.
+Manuals like The Cost of Living classified domestic labor as a profession and a science. It guaranteed to women that if they were careful and efficient, if they housekept correctly, they could uplift their entire families and even impact the entire nation. The contents of these domestic manual provide us with some cultural context for Emma Wheeler Wilcox’s article.
 
 Historians have shown how these manuals framed housekeeping as a professional pursuit. They emphasize that small efficiencies practiced on a grand scale in all upper- and middle- class white households can preserve the “race” and American society. Domestic cleanliness was next to citizenship. 
 
@@ -157,13 +157,13 @@ Historians explain that psychiatrists viewed mental health as a scale or continu
   switch-id="switch1"
   bg-id="bg1"
 %}
-This medical discourse is reflected and reinforced in Willcox’s article. 
+This medical discourse is reflected and reinforced in Wilcox’s article. 
 
 A woman could harm her entire household by becoming overly zealous in her domestic duties. “Do-Ho-Mania” portrays the over-achieving housekeeper as a danger to society.
 
 If a woman’s mental health was unstable, it was a public concern and a domestic failure. [^note8]
 
-[^note8]: Thomas Clouston, Clinical Lectures on Mental Diseases (Lea Brothers and Company: 1904); Grob, Mental Illness in American Society, 36-37; Willcox, “Do-Ho-Mania,” 128; Showalter, The Female Malady, 122-126.
+[^note8]: Thomas Clouston, Clinical Lectures on Mental Diseases (Lea Brothers and Company: 1904); Grob, Mental Illness in American Society, 36-37; Wilcox, “Do-Ho-Mania,” 128; Showalter, The Female Malady, 122-126.
 
 
 {% include scrollybox/bg-multi-long-close.html %}
@@ -202,10 +202,38 @@ images = images
 
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+### Primary
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+- Clouston, Thomas. Clinical Lectures on Mental Diseases. Philadelphia, PA: Lea Brothers and Company, 1904.
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+- Walker, E.D. “Ella Wheeler Wilcox.” Cosmopolitan Magazine, 6, no. 1 (1888): 46-52.
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+- Wilcox, Emma Wheeler. “Do-Ho-Mania.” Good Housekeeping, 37, no. 2 (1903): 128-129.
+https://libproxy.unm.edu/login?url=https://www.proquest.com/wma/magazines/do-ho-mania/docview/1715556764/sem-2?accountid=14613.
+
+
+- Richards, Ellen H. “The Organization of the Household." The Cost of Living. London, UK: Chapman and Hall, Limited,1900.
+
+### Secondary 
+
+- Gamwell, Lynn and Nancy Tomes. Madness in America: Cultural and Medical Perceptions of Mental Illness Before 1914. Ithaca, NY: Cornell University Press, 1995.
+
+- Grob, Gerald N. Mental Illness and American Society, 1875-1940. Princeston, NJ: Princeton University Press, 1983.
+
+- Ladd-Taylor, Molly. Mother-work: Women, Child Welfare, and the State, 1890-1930, Champaign, IL: University of Illinois Press, 1994.
+
+- Lerner, Gerda. “The Lady and the Mill Girl: Changes in the Status of Women in the Age of Jackson,” Midcontinent American Studies Journal, no. 1 (1969): 5-15. https://www.jstor.org/stable/40640814
+
+- Rury, John L. “Vocationalism for Home and Work: Women’s Education in the United States, 1880-1930,” History of Education Quarterly, no. 1 (1984): 21-44. https://www.jstor.org/stable/367991
+
+- Showalter, Elaine. The Female Malady: Women, Madness, and English Culture. New York, NY: Pantheon Books, 1985.
+
+- Smith-Rosenberg, Carroll. “The Hysterical Woman: Sex Roles and Role Conflict in 19th-Century America.” Social Research, no. 4 (1972): 653-678. 
+
+- Smith-Rosenburg, Carroll and Charles Rosenberg, “The Female Animal: Medical and Biological Views of Woman and her Role in Nineteenth-Century America,” The Journal of American History, no. 2 (1973): 332-356. https://www.jstor.org/stable/40970115 
+
+- Tarr, Joel A. and Mark Tebeau, “Managing Danger in the Home Environment, 1900-1940,” Journal of Social History, no. 4 (1996): 797-816. https://www.jstor.org/stable/3788666
+
+- Welter, Barbara. “The Cult of True Womanhood: 1820-1860,” American Quarterly, no. 2 (1966): 151-174. https://www.jstor.org/stable/2711179
+
+- Zuckerman, Mary Ellen. A History of Popular Women’s Magazines in the United States, 1792-1995, Westport, CT: Greenwood Press, 1998.
