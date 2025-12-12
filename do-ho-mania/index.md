@@ -29,6 +29,7 @@ image-path="images/Christine.jpg"
 In the summer of 1903, the ever-faithful American readers of Good Housekeeping cracked the spine of their cherished magazine. Once they reached page 128, which featured the op-ed section called “Veranda Talks,” they encountered a witty, breezy article written by well-known poet and author, Ella Wheeler Willcox titled “Do-Ho-Mania.” Its playful, rhythmic headline seemed harmless—almost comical—but behind the light tone of the article was a profound cultural message.“Do-Ho-Mania” read like a cute, nonsensical name, but what Ella Wheeler Willcox wrote in the article served as a warning to its upper- and middle- class white women readers: being too good at housekeeping could cause psychological harm. Her comic quippy tone was in fact, a reflection of early twentieth-century anxieties about female sanity, domestic labor, and the narrow definition of ideal womanhood.[^note1]
 
 [^note1]: Ella Wheeler Willcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
+
 These anxieties bled far beyond the pages of Good Housekeeping. The medical field, newspapers, fiction, and domestic guidebooks all shared a cultural language: women are naturally nervous creatures who are prone to breakdown and constantly on the precipice of becoming societally undesirable. What’s worse is that their temperament could impact the happiness of their entire family unit. While all of this was a culturally accepted truth, women were also under extreme pressure to maintain spotless homes, attractive appearances, and mild tempers.
 
 Upper- and middle- class American women in 1903 existed inside of a tightening vice of impossible expectations. Willcox’s article, “Do-Ho-Mania” exemplifies how these pressures intersected and how they were presented to the public.
@@ -84,11 +85,24 @@ This imbalance is reflected in popular culture. When Willcox used the term “ma
 %}
 
 
-## Cras magna nunc
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+## Do-Ho-Mania and the Fragile Ideal of Womanhood
+Ella Wheeler Willcox’s term “Do-Ho-Mania” is short, witty, and deceptively light-hearted, but the underlying message is serious.
+
+Willcox frames her light-hearted advice as a plea to women. It is a warning to women, too: women must preserve their sanity for the sake of their families. She is quick to say that being a good housekeeper is admirable, but overdoing means risking degenerating into something almost monstrous, something industrial instead of something feminine: warm, loving, pious and soft. They could become “mere machines” and “terrors”—“enemies” in their own domestic sphere. 
+
+Willcox softens the severity of her message why shortening the phrase “domestic housekeeping mania” (which almost sounds like it could be an actual diagnostic term for the time) to the breezy “do-ho-mania.” She shares a vivid anecdote about a women who cleaned so diligently and obsessively that she became like “one of the witches in Macbeth,” who intimidated her husband into being a timid, depressive man. She understood her readers’ devotion to preserving their “true womanhood” and knew that evoking the image of a witch would frighten them and pressure them to heed her advice. [^note6]
+
+[^note6]:Ella Wheeler Willcox, “Do-Ho-Mania,” Veranda Talks in Good Housekeeping, August 1903. 128-129.
 
 {% include aside.html class="left" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+She used light-hearted humor to reinforce and re-entrench cultural norms:
+Women should keep their home clean, but not too clean.
+Women must care deeply but not obsess.
+Women must routinely and efficiently fulfil their duties, but not to the point of becoming a machine. 
+If a woman fails at housekeeping, she risks being labeled negligent. 
+If she excels too fiercely, she risks losing her mind. 
+The impossibly narrow societal expectations reflect broader cultural beliefs: women were constantly on the verge of becoming undesirable. 
+" %}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
