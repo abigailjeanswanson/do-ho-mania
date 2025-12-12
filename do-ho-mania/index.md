@@ -58,8 +58,8 @@ Willcox was already a very famous and familiar name in the early twentieth centu
 By the early 1900s, women’s magazines were extremely popular, a booming industry. Domestic purchasing decisions fell to women and magazines like Good Housekeeping and Cosmopolitan became central sites of consumer culture. This was a characteristic of the new, industrialized America and women’s print media capitalized on it by including a copious amount of paid advertisements for household products, beauty products, and other women’s necessities. Magazine advertisements and articles reflected women’s concerns about motherhood, health, and homemaking. Women writers like Ella Wheeler Willcox were featured in women’s magazines. Thus, women were both agents and objects of magazine content. What they read not only shaped how they spent their household’s finances, but it also impacted how they interacted with many aspects of their everyday lives.
 This commercial landscape is central to understanding the cultural implications of “Do-Ho-Mania.” The fact that Good Housekeeping published an article about not being too good of a housekeeper is ironic, but the irony is revealing of the cultural and societal systems that revered domestic labor and feared the fragility of upper- and middle- class white women’s sanity. [^note4]
 
-[^note4]:Mary Ellen Zuckerman, A History of Popular Women’s Magazines in the United States, 1792-1995, (Greenwood
-Press, 1998), 3-4, 26, 34.
+[^note4]:Mary Ellen Zuckerman, A History of Popular Women’s Magazines in the United States, 1792-1995, (Greenwood Press, 1998), 3-4, 26, 34. 
+
 
 
 ## Donec odio elit
