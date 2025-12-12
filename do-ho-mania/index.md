@@ -63,8 +63,11 @@ This commercial landscape is central to understanding the cultural implications 
 
 
 ## Pathologizing Femininity
+
 Willcox writing about a made-up mental illness made sense for this time period. As is evidenced by the use of the word ‘mania’ in Ella Wheeler Willcox’s article title, the early twentieth century was saturated with fascination and fear of mental illness. Popular media used madness as a metaphor in entertainment and often, madness was used as a literary device to implore its readers to be cautious of their own minds. In newspapers and magazines, nervous breakdowns, melancholia, and mania essentially became familiar characters—archetypes that reflected cultural understandings of the human mind and insanity. These stories often featured themes of domestic life, of crime, and of general moral decline. 
+
 Historians have long observed that the western world genders madness as an inherently feminine trait. During the eighteenth century, there was a notable shift in how insanity was represented—what was once characterized as a violent, masculine threat to the state became a feminized condition that required a benevolent patriarchal hand to treat it. As the psychiatric profession filled with men, insane asylums filled with women as patients causing a disparity between the genders. In the U.S.—which was deeply and directly influenced by European medical thought—this gendered imbalance continued into the twentieth century. 
+
 This imbalance is reflected in popular culture. When Willcox used the term “mania” in her Good Housekeeping article, she was tapping into a sort of cultural shorthand that her readers would have been very familiar with and understood instantly. Popular media depicted female insanity as grotesque and frighteningly tragic—at times, even humorous. These tropes were grounded in a cultural and societal system that pathologized women’s behaviors and viewed their mental health as fragile, morally influenced, and unstable. Thus, deeming a woman who was obsessed with achieving domestic perfection as a manic was not simply a playful thing, it was a reflection of early twentieth century social anxieties. [^note5]
 
 [^note5]:Lerner, “The Lady and The Mill Girl,” 11; Welter, “The Cult of True Womanhood,” 152, 174; Lerner, “The Lady and The Mill Girl,” 14; Molly Ladd-Taylor, Mother-work: Women, Child Welfare, and the State, 1890-1930, (University of Illinois Press, 1994), 113; Showalter, The Female Malady, 123-124,144.
@@ -75,7 +78,7 @@ This imbalance is reflected in popular culture. When Willcox used the term “ma
   position="top"
   image-path="images/living-room-1911.jpg"
   above-box-space = "100vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+  box-content='"The woman made a failure of her whole life and left, when she died, a memory of an unhappy home for her family. Yet she died in what should ahve been her prime, believing she had sacrificed her life upon the altar of domestic duty, and had not been appreciated." - Ella Wheeler Willcox'
 %}
 
 
