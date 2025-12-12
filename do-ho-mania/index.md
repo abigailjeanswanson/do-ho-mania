@@ -167,7 +167,7 @@ If a woman’s mental health was unstable, it was a public concern and a domesti
 {% include juxtapose.html
 image1="images/exercise-1.jpeg"
 image2="images/exercise-2.jpeg"
-caption="Ella Wheeler Willcox's article, Do-Ho-Mania as it appeared in Good Housekeeping, 1903."
+caption="From a 1901 Good Housekeeping article entitled 'Housework as Exercise'."
 %}
 
 
