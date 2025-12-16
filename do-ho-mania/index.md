@@ -228,9 +228,9 @@ https://libproxy.unm.edu/login?url=https://www.proquest.com/wma/magazines/do-ho-
 
 - Showalter, Elaine. The Female Malady: Women, Madness, and English Culture. New York, NY: Pantheon Books, 1985.
 
-- Smith-Rosenberg, Carroll. “The Hysterical Woman: Sex Roles and Role Conflict in 19th-Century America.” Social Research, no. 4 (1972): 653-678. 
+- Smith-Rosenberg, Carroll. “The Hysterical Woman: Sex Roles and Role Conflict in 19th-Century America.” Social Research, no. 4 (1972): 653-678. https://www.jstor.org/stable/40970115 
 
-- Smith-Rosenburg, Carroll and Charles Rosenberg, “The Female Animal: Medical and Biological Views of Woman and her Role in Nineteenth-Century America,” The Journal of American History, no. 2 (1973): 332-356. https://www.jstor.org/stable/40970115 
+- Smith-Rosenburg, Carroll and Charles Rosenberg, “The Female Animal: Medical and Biological Views of Woman and her Role in Nineteenth-Century America,” The Journal of American History, no. 2 (1973): 332-356. https://www.jstor.org/stable/2936779
 
 - Tarr, Joel A. and Mark Tebeau, “Managing Danger in the Home Environment, 1900-1940,” Journal of Social History, no. 4 (1996): 797-816. https://www.jstor.org/stable/3788666
 
